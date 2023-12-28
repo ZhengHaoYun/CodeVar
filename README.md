@@ -7,6 +7,8 @@
 
 # 安装
 [点击下载](https://github.com/xudaolong/CodeVar/releases)
+在Alfred Workflow中添加环境变量
+![](./assets/img/添加环境变量.png) 
 
 # 开发趋向
 
